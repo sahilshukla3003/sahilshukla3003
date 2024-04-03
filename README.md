@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in: Exploring cutting-edge technologies, software development, and solving complex problems.
 
-- 🌱 I’m currently learning: Programming languages like Python, machine learning, deep learning, Computer Vision, NLP, and Generative AI.
+- 🌱 I’m currently learning: Programming languages like Python, Machine learning, Deep learning, Computer Vision, NLP, and Generative AI.
 
 - 💞️ I’m looking to collaborate on: Exciting coding projects, open-source contributions, and opportunities related to software develpment.
 
